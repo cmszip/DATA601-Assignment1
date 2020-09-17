@@ -55,6 +55,6 @@ Clifton M Saul Jr.
 
 ---
 
-## License & copyright
+## [License & copyright](https://github.com/cmszip/DATA601-Assignment1/blob/master/License.txt)
 
 © Clifton M Saul Jr.
