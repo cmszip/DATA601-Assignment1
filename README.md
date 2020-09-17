@@ -1,7 +1,7 @@
 # Is Ovechkin the National Hockey League's Best Goal-Scorer?
 <b> by Clifton Saul
 
-## Repo Contents
+## Repo Contents & Navigation
 * <b> [skater_stats.csv](https://github.com/cmszip/DATA601-Assignment1/blob/master/skater_stats.csv) </b> - dataset of NHL player stats dating from 1940 to 2018. The raw datasets can be found on the [Inalitics website](http://inalitic.com/datasets/nhl%20player%20data.html). This was sourced from Hockey-reference.com, which is a repository of hockey statistics.<br>
 * <b> [Notebook](https://github.com/cmszip/DATA601-Assignment1/blob/master/DATA%20601%20-%20Assignment%201%20-%20Ovechkin.ipynb) </b> - Jupyter Notebooks was used for this project. 'DATA 601 - Assignment 1 - Ovechkin' is the Jupyter Notebook containing the data preparation, cleaning, and exploratory data analysis. <br>
 * <b> [README.me](https://github.com/cmszip/DATA601-Assignment1/blob/master/README.md) </b> - description and overview of the project, including its objectives, process, and results.
