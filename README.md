@@ -7,4 +7,13 @@
 * <b> README.me </b> - description and overview of the project, including its objectives, process, and results.
 * <b> License.txt </b> - MIT license and copyright
 
+## Motivation
+
+
 This project uses data analysis of NHL player stats to determine if Alex Ovechkin is the NHL's best goal scorer. 
+
+---
+
+## License & copyright
+
+© Clifton M Saul Jr.
