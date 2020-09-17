@@ -1,4 +1,4 @@
-# Is Ovechkin the National Hockey League's best goal-scorer?
+# Is Ovechkin the National Hockey League's Best Goal-Scorer?
 <b> by Clifton Saul
 
 ## Repo Contents
