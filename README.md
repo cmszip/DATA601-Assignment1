@@ -9,8 +9,30 @@
 
 ## Motivation
 
+Since his arrival in the NHL in the 2005-2006 season, Alex Ovechkin has been one of the league's most skilled players. This has also welcomed debate over who is the best player. Given that what is best is often a subjective discussion, there is often more punditry involved than data analysis.
 
-This project uses data analysis of NHL player stats to determine if Alex Ovechkin is the NHL's best goal scorer. 
+## Goal
+
+Given the above motivation, this project seeks to determine if Ovechkin is the best at a particularly important skill: scoring goals. This project uses data analysis of NHL player stats to determine if Alex Ovechkin is the NHL's best goal scorer, and if so, why that is.
+
+## Data Overview
+
+An original csv file of NHL player stats dating from 1940 to 2018 was used. This dataset includes:
+  * 37,825 rows
+  * 29 columns:
+    * Column datatypes:
+      * float64: 6
+      * int64: 3
+      * object: 20
+
+This dataset was altered to include the following:
+  * 28,554 rows
+  * 12 columns
+    * Column datatypes:
+      * float64: 4
+      * int64: 3
+      * object: 5
+
 
 ---
 
