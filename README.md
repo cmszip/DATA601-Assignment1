@@ -41,6 +41,18 @@ This leads to an additional limitation: an assumption within the data set regard
 
 Additionally, a number of rules changed at the start of Ovechkin's career. The NHL cancelled its 2004-2005 season due to a labor dispute, and when the league returned to play in Ovechkin's first season, they made changes to some of the rules of play. This makes comparisons between Ovechkin and some of hockey's all-time greats more difficult to make. As a result, this project will focus more on Ovechkin and his peers, particularly concurrent star players, which are easier comparisons to make.
 
+## Summary & Conclusion
+
+Ovechkin scores approximately 0.462 more goals per game than his peers and 0.439 more goals per game than the average NHL player since 1940. We also found that Ovechkin's shooting percentage is 2.544% higher than other forwards in the NHL, but in line with other NHL superstar players, so it is reasonable. Instead, where Ovechkin far exceeds other players is in his total shots. Ovechkin is able to shoot the puck far more often than even other NHL superstars. 
+
+This leads us to the conclusion that yes, Ovechkin is the NHL's best goal-scorer because he is the best at generating shots while maintaining an above average shooting percentage. This leads to him having the highest goals per game, even when compared to other NHL superstars.
+
+---
+
+## Contributors
+
+Clifton M Saul Jr.
+
 ---
 
 ## License & copyright
